@@ -1,0 +1,12 @@
+[
+    {"number": 1, "purchaseDate": 1493586000, "warrantyExpiredDate":1525122000, "processor": "Intel Core i9-10900KF Processor", "RAM":  8, "ROM": 1024, "software": ["Microsoft 365","PHP Storm", "Viber"] },
+    {"number": 2, "purchaseDate": 1525122000, "warrantyExpiredDate":1588280400, "processor": "AMD Ryzen 7 5800X3D", "RAM":  16, "ROM": 512, "software": ["Microsoft 365","Minecraft", "Telegram"] },
+    {"number": 3, "purchaseDate": 1577829600, "warrantyExpiredDate":1690837200, "processor": "Intel Core i9-10900KF Processor", "RAM":  4, "ROM": 512, "software": ["Microsoft 365","PHP Storm", "Viber"] },
+    {"number": 4, "purchaseDate": 1525122000, "warrantyExpiredDate":1690837200, "processor": "Intel Core i7-8700K Processor", "RAM":  8, "ROM": 256, "software": ["Microsoft 365","Minecraft", "Telegram"] },
+    {"number": 5, "purchaseDate": 1493586000, "warrantyExpiredDate":1525122000, "processor": "AMD Ryzen 7 1800X", "RAM":  16, "ROM": 512, "software": ["Minecraft","PHP Storm", "Visual Studio 2019"] },
+    {"number": 6, "purchaseDate": 1609452000, "warrantyExpiredDate":1690837200, "processor": "AMD Ryzen 7 1800X", "RAM":  32, "ROM": 512, "software": ["Microsoft 365","PHP Storm", "Viber"] },
+    {"number": 7, "purchaseDate": 1609452000, "warrantyExpiredDate":1627765200, "processor": "Intel Core i9-10900KF Processor", "RAM":  16, "ROM": 256, "software": ["Minecraft","Visual Studio 2021", "Visual Studio 2019"] },
+    {"number": 8, "purchaseDate": 1609452000, "warrantyExpiredDate":1690837200, "processor": "AMD Ryzen 7 1800X", "RAM":  8, "ROM": 512, "software": ["Microsoft 365","Visual Studio 2021", "Viber"] },
+    {"number": 9, "purchaseDate": 1493586000, "warrantyExpiredDate":1525122000, "processor": "Intel Core i7-8700K Processor", "RAM":  8, "ROM": 2048, "software": ["Minecraft","Spotify", "Visual Studio 2019"] },
+    {"number": 10, "purchaseDate": 1609452000, "warrantyExpiredDate":1690837200, "processor": "Intel Core i7-8700K Processor", "RAM":  32, "ROM": 256, "software": ["Microsoft 365","Minecraft", "Telegram"] }
+]
